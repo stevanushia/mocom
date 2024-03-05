@@ -1,2 +1,2 @@
 # mocom
-storage for mocom prak
+PERSONAL STORAGE
